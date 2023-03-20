@@ -88,7 +88,7 @@ variable "default_flex_shape_ocpus" {
 
 variable "kubernetes_version" {
   description = "The OKE cluster K8s version"
-  default     = "v1.22.5"
+  default     = "v1.25.4"
 }
 
 variable "default_public_access_cidrs" {
