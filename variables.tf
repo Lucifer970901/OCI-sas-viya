@@ -27,7 +27,7 @@ variable "prefix" {
 
 variable "region" {
   description = "The OCI Region to provision all resources in this script"
-  default     = "us-ashburn-1"
+  default     = "ap-singapore-1"
 }
 
 variable "availability_domain" {
